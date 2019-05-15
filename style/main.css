@@ -10,7 +10,7 @@ p {
 
 html, body {
 	height: 100%;
-	font-family:Raleway;
+	font-family: 'Roboto Mono', monospace;
 	scroll-behavior: smooth;
 }
 
